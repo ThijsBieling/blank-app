@@ -1,1 +1,6 @@
 streamlit
+logging
+base64
+pandas
+datetime
+matplotlib
