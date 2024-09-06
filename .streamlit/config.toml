@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#d68437"          # Orange
+backgroundColor="#d6e6ed"       # Light Blue
+secondaryBackgroundColor="#ffffff" # White
+textColor="#164050"             # Dark Blue
+font="sans serif"               # Optional: Font type
